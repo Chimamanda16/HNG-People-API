@@ -20,7 +20,7 @@
     DELETE: /api/:userid --Delete a particular document/person
 
  ## EXAMPLES
-  ## This assuming you are using postman but can also be applied in other cases
+   This assuming you are using postman but can also be applied in other cases
   ## To create a new person
    `POST /api`
    Under the body tab, set to "raw" and include the new name in a format like this:
@@ -32,11 +32,11 @@
    Under the body tab, set to "none"
   ## To read a particular person
     `GET /api/:user_id`
-    Where user_id is the person's name
-    Under the body tab, set to "raw" and include the name in a format like this:
-    {
-    "name": "Peg"
-    }
+     Where user_id is the person's name
+     Under the body tab, set to "raw" and include the name in a format like this:
+     {
+     "name": "Peg"
+     }
   ## To update a particular list
     `PUT /api/:user_id`
     Where user_id is the name to be updated
