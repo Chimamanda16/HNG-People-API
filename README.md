@@ -43,15 +43,15 @@
     Under the body tab, set to "raw" and include the name in a format like this:
     {
     "name": "Peg"
-   }
-   name is the new name
+    }
+    name is the new name
   ## To delete a particular list/person
     `DELETE /api/"user_id`
     Where user_id is the name of the person to be deleted
     Under the body tab, set to "raw" and include the name in a format like this:
     {
     "name": "Peg"
-   }
+    }
 ## Source code
 [Source code](https://github.com/Chimamanda16/HNG-People-API/blob/main/app.js "Visit GitHub")
 
