@@ -1,8 +1,8 @@
 ### HNG-People-API
-# My Project
+   # My Project
 
 ## Description
-# This is a brief description of my project.
+   # This is a brief description of my project.
 
 ## Installation
 1. Clone this repository 
