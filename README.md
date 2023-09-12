@@ -36,7 +36,7 @@
     Under the body tab, set to "raw" and include the name in a format like this:
     {
     "name": "Peg"
-   }
+    }
   ## To update a particular list
     `PUT /api/:user_id`
     Where user_id is the name to be updated
