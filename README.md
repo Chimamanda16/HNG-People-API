@@ -13,11 +13,11 @@
 
 # Usage
  ## ENDPOINTS
-   1. POST: /api --Create new document/person
-   2. GET: /api --Read all documents/lists of persons
-   3. GET: /api/:user_id --Read a particular document/person
-   4. PUT: /api/:user_id --Update a particular document/person
-   5. DELETE: /api/:userid --Delete a particular document/person
+   # POST: /api --Create new document/person
+   # GET: /api --Read all documents/lists of persons
+   # GET: /api/:user_id --Read a particular document/person
+   # PUT: /api/:user_id --Update a particular document/person
+   # DELETE: /api/:userid --Delete a particular document/person
 
  ## EXAMPLES
   ## This assuming you are using postman but can also be applied in other cases
