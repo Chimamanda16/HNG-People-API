@@ -1,23 +1,23 @@
 ### HNG-People-API
-   # My Project
+    My Project
 
 ## Description
-   # This is a brief description of my project.
+    This is a brief description of my project.
 
 ## Installation
 1. Clone this repository 
 `git clone https://github.com/Chimamanda16/HNG-People-API.git`
-2. Start nom and install the dependencies
+2. Start npm and install the dependencies
    `npm init` 
    `npm install`
 
 # Usage
  ## ENDPOINTS
-   # POST: /api --Create new document/person
-   # GET: /api --Read all documents/lists of persons
-   # GET: /api/:user_id --Read a particular document/person
-   # PUT: /api/:user_id --Update a particular document/person
-   # DELETE: /api/:userid --Delete a particular document/person
+    POST: /api --Create new document/person
+    GET: /api --Read all documents/lists of persons
+    GET: /api/:user_id --Read a particular document/person
+    PUT: /api/:user_id --Update a particular document/person
+    DELETE: /api/:userid --Delete a particular document/person
 
  ## EXAMPLES
   ## This assuming you are using postman but can also be applied in other cases
