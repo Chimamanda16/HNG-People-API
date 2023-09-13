@@ -60,7 +60,7 @@ app.get("/api/:user_id", async(req, res)=>{
     try{
         Person.findOne({Name: name}).then((person)=>{
             if(!person){
-                return res.status(404).json({error: "Person not found"});
+                return res.status(404).json({error: "Person does not exist"});
             }
             else{
                 res.json(person);
