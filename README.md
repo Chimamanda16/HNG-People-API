@@ -1,15 +1,14 @@
-### HNG-People-API
-    My Project
+# HNG-People-API
 
 ## Description
-    This is a brief description of my project.
 
 ## Installation
-1. Clone this repository 
-`git clone https://github.com/Chimamanda16/HNG-People-API.git`
-2. Start npm and install the dependencies
-   `npm init` 
-   `npm install`
+    Clone the project repository from GitHub
+    Install Node.js and npm if not already installed.
+    Install project dependencies using npm install.
+    Set up a MongoDB database and provide the connection string in the project's .env file.
+    Start the API using npm start.
+    Access the API endpoints using the base URL (e.g., http://localhost:3000/api).
 
 # Usage
  ## ENDPOINTS
