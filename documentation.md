@@ -26,7 +26,7 @@ No authentication is required to access the API endpoints.
 - **Sample Request:**
 
   ```json
-  POST /api
+  --POST /api
   Content-Type: application/json
 
   {
