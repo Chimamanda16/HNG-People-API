@@ -25,10 +25,9 @@ No authentication is required to access the API endpoints.
 
 - **Sample Request:**
 
+  ### POST /api
+  ### Content-Type: application/json
   ```json
-  --POST /api
-  Content-Type: application/json
-
   {
     "name": "John Doe"
   }
@@ -47,9 +46,7 @@ No authentication is required to access the API endpoints.
 
 - **Sample Request:**
 
-  ```json
-  GET /api
-  ```
+  ### GET /api
 
 - **Response Format:**
   - Status Code: 200 OK
@@ -106,9 +103,7 @@ No authentication is required to access the API endpoints.
 
 - **Sample Request:**
 
-  ```json
-  GET /api/Chris%20Doe
-  ```
+  ### GET /api/Chris%20Doe
 
 - **Response Format:**
   - Status Code: 200 OK
@@ -146,10 +141,10 @@ No authentication is required to access the API endpoints.
 
 - **Sample Request:**
 
-  ```json
-  PUT /api/John%20Doe
-  Content-Type: application/json
+  ### PUT /api/John%20Doe
+  ### Content-Type: application/json
 
+  ```json
   {
     "name": "Updated Name"
   }
@@ -180,9 +175,7 @@ No authentication is required to access the API endpoints.
 
 - **Sample Request:**
 
-  ```json
-  DELETE /api/John%20Doe
-  ```
+  ### DELETE /api/John%20Doe
 
 - **Response Format:**
   - Status Code: 200 OK
