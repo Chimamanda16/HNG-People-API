@@ -54,3 +54,6 @@
 ## Source code
 [Source code](https://github.com/Chimamanda16/HNG-People-API/blob/main/app.js "Visit GitHub")
 
+## UML Diagram
+[Diagram](https://lucid.app/lucidchart/e2cf9cca-67e1-4cff-974c-c7ce04873ccf/edit?viewport_loc=-124%2C-205%2C3067%2C1459%2C0_0&invitationId=inv_c81599bf-337d-4db8-b8b5-f6d1c2ac74d3)
+
